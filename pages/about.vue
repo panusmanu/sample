@@ -3,7 +3,7 @@
           
     <v-flex class="text-center">
      <h1> 
-         About Us
+         About Me
      </h1>
  <v-card
     class="mx-auto"
